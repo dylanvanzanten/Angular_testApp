@@ -6,6 +6,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## FakeJS Server
+This app has been created together with [Faker.js](https://github.com/marak/Faker.js/). When the database.json file is empty use `npm run generate` to generate fake data for the server. To start a the fake server use a seperate teminal with `npm run server`.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
